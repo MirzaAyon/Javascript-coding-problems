@@ -4,7 +4,11 @@ var second = 7;
 console.log(first, second);
 
 // first approach
-var temp = first;
-first = second;
-second = temp;
+// var temp = first;
+// first = second;
+// second = temp;
+// console.log(first, second);
+
+// destructuring
+[first, second] = [second, first];
 console.log(first, second);
