@@ -9,3 +9,4 @@ function arrayTotal(numbers) {
 
 const total = arrayTotal([32, 45, 67]);
 console.log('array total', total)
+//with function
