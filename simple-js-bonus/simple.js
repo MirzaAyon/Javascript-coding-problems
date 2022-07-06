@@ -34,4 +34,6 @@ function consoleNumber(i) {
     consoleNumber(i + 1);
 }
 consoleNumber(1);
+//ekhane func diye korsi and func er vitor theke shei eki func ke call korsi eke recurion
+//func er vitor theke shei func ke call kore dewake bole recursion 
 
